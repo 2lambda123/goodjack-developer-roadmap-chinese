@@ -1,16 +1,16 @@
-#### What roadmap does this PR target?
+#### 這個公關的目標是什麼？
 
-- [ ] Frontend Roadmap
-- [ ] Backend Roadmap
-- [ ] DevOps Roadmap
-- [ ] All Roadmaps
+- [ ] 前端路線圖
+- [ ] 後端路線圖
+- [ ] DevOps路線圖
+- [ ] 所有路線圖
 
-#### Please acknowledge the items listed below
+#### 請確認下列事項
 
-- [ ] I have discussed this contribution and got a go-ahead in an issue before opening this pull request.
-- [ ] This is not a duplicate issue. I have searched and there is no existing issue for this.
-- [ ] I understand that these roadmaps are highly opinionated. The purpose is to not to include everything out there in these roadmaps but to have everything that is most relevant today comparing to the other options listed.
-- [ ] I have read the [contribution docs](../contributing.md) before opening this PR.
+- [ ] 我已經討論了這個貢獻，並在打開這個提取請求之前得到了一個問題的批准。
+- [ ] 這不是一個重複的問題。我已經搜索過了，沒有這方面的問題。
+- [ ] 我知道這些路線圖非常固執己見。目的是不要將所有內容都包含在這些路線圖中，而是將當今最相關的所有內容與列出的其他選項進行比較。
+- [ ] 在打開此 PR 之前，我已經閱讀了 [貢獻文擋](../contributing.md) 。
 
 #### Enter the details about the contribution
 
